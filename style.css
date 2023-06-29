@@ -1,0 +1,13 @@
+#bg, #bh{
+    height: 200px;
+}
+#bottone, #bottone2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    width: 150px;
+    margin-top: 10px;
+    
+}
